@@ -67,7 +67,3 @@ flutter run
 
 ---
 
-
-
-¿Quieres que te lo arme también en **formato PDF** bonito (con títulos, tablas y colores) para que lo presentes directamente como tarea?
-```
